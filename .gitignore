@@ -1,0 +1,10 @@
+# Ignorar a pasta env_proj
+env_proj/
+
+# Ignorar lixo
+__pycache__/
+__testes_batida(ultrapassado)
+
+# Ignorar a pasta de músicas (substitua 'musicas' pelo nome correto da pasta)
+musicas/
+wav/
